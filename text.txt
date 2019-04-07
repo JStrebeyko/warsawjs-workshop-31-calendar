@@ -1,0 +1,3 @@
+express działa dzięki middleware'om, które owijają apę niczym kolejkne warstwy cebuli.
+
+.next() puszcza do kolejnej warstwy, res.status / res.send() zamyka req
